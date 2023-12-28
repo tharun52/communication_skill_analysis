@@ -1,7 +1,7 @@
 import openai
 
 # Set your OpenAI API key
-openai.api_key = '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'
+openai.api_key = 'api-key'
 
 def correct_grammar(original_text):
     # Construct a prompt for the GPT model

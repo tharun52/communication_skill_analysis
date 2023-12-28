@@ -1,0 +1,7 @@
+speech
+tk
+textblob
+proselint
+openai
+transformers
+moviepy

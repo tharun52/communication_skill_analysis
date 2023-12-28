@@ -8,7 +8,7 @@ This repository presents a comprehensive solution for soft skill communication a
 
 To run the code start by installing the required dependencies using the following command:
 
-pip install -r REQUIREMENTS.txt
+pip install -r requirements.txt
 
 
 ## Project Configuration

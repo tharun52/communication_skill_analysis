@@ -2,11 +2,11 @@
 
 ## Installation
 
-###Run the following command to install the required packages:
+### Run the following command to install the required packages:
 
 pip install -r requirements.txt
 
-###To run the program, execute the following command:
+### To run the program, execute the following command:
 
 python main.py
 
